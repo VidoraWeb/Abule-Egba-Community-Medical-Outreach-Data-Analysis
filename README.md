@@ -1,0 +1,2 @@
+# Abule-Egba-Community-Medical-Outreach-Data-Analysis
+This project analyzes real-world data collected during a school project for a community medical outreach program in Abule Egba, Lagos aimed at providing free health checks and medications to residents. The dataset captures patient demographics, vital signs and test results for conditions such as malaria, hypertension, diabetes, and hepatitis. 
