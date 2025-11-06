@@ -7,5 +7,7 @@ The data was originally put together by students in my school, and I was in char
 
 
 # DASHBOARD
-[Medical Outreach Dashboard](<img width="2000" height="1545" alt="Medical Outreach Data Visualization" src="https://github.com/user-attachments/assets/88c162f5-3318-40ab-bf51-a0fa6241a516" />)
+[Medical Outreach Dashboard][Medical Outreach Data Visualization2.pdf](https://github.com/user-attachments/files/23393710/Medical.Outreach.Data.Visualization2.pdf)
+
+
 
