@@ -5,9 +5,9 @@ This project analyses real-world data collected during a school project for a co
 # TOOLS USED
 - MICROSOFT EXCEL (Dataset was small, so Excel was the best for analysis): Data cleaning, analysis and visualisation.
 - PIVOT TABLES & CHARTS.
-- IFS, COUNTIFS,TEXTJOIN FUNCTIONS FOR CLASSIFICATION AND SUMMARIES.
+- IFS, COUNTIFS, TEXTJOIN FUNCTIONS FOR CLASSIFICATION AND SUMMARIES.
 
-#OUTCOMES
+# OUTCOMES
 - Visual dashboard summarising test results and medications.
 - KPIs for medication distribution, service coverage, and prevalence.
 - Actionable health insights for post-outreach evaluation.
